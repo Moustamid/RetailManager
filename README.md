@@ -1,0 +1,33 @@
+Phase 1 :
+
+    Creating a WebAPI with Authentication
+    Configuring Swagger in WebAPI
+    Added SQL Database Project
+    WPF with MVVM Project Setup
+    Dependency Injection in WPF
+    SQL Database Table Creation
+    WPF Login Form Creation
+    Wire Up the WPF Login form to the API
+    Login Form Error Handling
+    Getting User Data
+    Sales Page Creation
+    Event Aggregation in WPF
+    Display Product Data
+    Wire Up the WPF Shopping Cart
+    Modifying SQL, the API, and WPF to Add Taxes
+    Early Refactoring in C#
+    Posting Sales Data to an API
+    Automapper and INotifyPropertyChanged
+    C# Debugging and Clean Up
+    SQL Transactions in C# using Dapper
+    SQL Transaction Bug Fix
+    Admin Endpoints in WebAPI
+    Adding Roles to the API
+    User Permissions and Error Handling
+    Displaying Users and Groups/Roles
+    Managing User Roles
+    Upgrading to .NET Core: Front-End Class Library
+    Upgrading to .NET Core: Back-End Class Library
+    Upgrading to .NET Core: From WebAPI to ASP.NET Core API
+    Upgrading to .NET Core: Adding JWT Authentication to Our API
+    Upgrading to .NET Core: WPF to .NET Core 3.1
